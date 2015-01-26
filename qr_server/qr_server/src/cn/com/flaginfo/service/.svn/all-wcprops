@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/umsoss/!svn/ver/163/src/qr_server/src/cn/com/flaginfo/service
+END
+VisitService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/umsoss/!svn/ver/163/src/qr_server/src/cn/com/flaginfo/service/VisitService.java
+END
+CodeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/umsoss/!svn/ver/163/src/qr_server/src/cn/com/flaginfo/service/CodeService.java
+END
+CardService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/umsoss/!svn/ver/163/src/qr_server/src/cn/com/flaginfo/service/CardService.java
+END
+CodeGenerateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/umsoss/!svn/ver/163/src/qr_server/src/cn/com/flaginfo/service/CodeGenerateService.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/umsoss/!svn/ver/162/src/qr_server
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/umsoss/!svn/ver/163/src/qr_server/.cvsignore
+END
+.tomcatplugin
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/umsoss/!svn/ver/163/src/qr_server/.tomcatplugin
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/umsoss/!svn/ver/163/src/qr_server/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/umsoss/!svn/ver/163/src/qr_server/.classpath
+END

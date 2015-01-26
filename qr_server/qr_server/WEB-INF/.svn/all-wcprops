@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/umsoss/!svn/ver/163/src/qr_server/WEB-INF
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/umsoss/!svn/ver/163/src/qr_server/WEB-INF/.cvsignore
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/umsoss/!svn/ver/163/src/qr_server/WEB-INF/web.xml
+END

@@ -1,0 +1,47 @@
+10
+
+dir
+163
+http://220.248.36.138:8290/svn/umsoss/src/qr_server/src/cn/com/flaginfo/dao
+http://220.248.36.138:8290/svn/umsoss
+
+
+
+2015-01-23T03:41:33.005415Z
+163
+yangchao.wang
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+92716044-6db3-4b91-891c-2a909ed99aab
+
+
+
+
+
+
+0
+
+base
+dir
+
+impl
+dir
+
+mapper
+dir
+
+model
+dir
+

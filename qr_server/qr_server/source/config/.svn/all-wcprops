@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/umsoss/!svn/ver/163/src/qr_server/source/config
+END
+ApplicationContext-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/umsoss/!svn/ver/163/src/qr_server/source/config/ApplicationContext-servlet.xml
+END
+system.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/umsoss/!svn/ver/163/src/qr_server/source/config/system.properties
+END
+mybatis-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/umsoss/!svn/ver/163/src/qr_server/source/config/mybatis-config.xml
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/umsoss/!svn/ver/163/src/qr_server/source/config/jdbc.properties
+END
+ApplicationContext-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/umsoss/!svn/ver/163/src/qr_server/source/config/ApplicationContext-dao.xml
+END
